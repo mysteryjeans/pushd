@@ -1,7 +1,7 @@
-#PushD
+# PushD
 Deploy to multiple locations with ease.
 
-##Configuration
+## Configuration
 Define your configurations in `pushd.yml` in a YAML and PushD does the rest. PushD accepts configuration file name as well so that can have multiple configurations files for staging and production. 
 
 
